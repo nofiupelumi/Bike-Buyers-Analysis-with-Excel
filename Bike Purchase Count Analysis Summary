@@ -1,0 +1,46 @@
+# Bike Purchase Count Analysis Summary
+
+This section provides an analysis of the count of purchased bikes based on commute distance using the provided dataset.
+
+## Count of Purchased Bikes by Commute Distance
+
+| Commute Distance        | No   | Yes  | Grand Total |
+|-------------------------|------|------|-------------|
+| **0-1 Miles**           | 59   | 102  | 161         |
+| **1-2 Miles**           | 42   | 39   | 81          |
+| **2-5 Miles**           | 30   | 51   | 81          |
+| **5-10 Miles**          | 53   | 38   | 91          |
+| **More than 10 Miles**  | 28   | 20   | 48          |
+| **Grand Total**         | 212  | 250  | 462         |
+
+## Interpretation
+
+- **0-1 Miles:**
+  - Individuals with a commute distance of 0-1 miles show a higher count of bike purchases (102) compared to those who did not purchase a bike (59).
+
+- **1-2 Miles:**
+  - For a commute distance of 1-2 miles, the count of bike purchases (39) is slightly lower than the count of non-bike purchases (42).
+
+- **2-5 Miles:**
+  - Individuals with a commute distance of 2-5 miles have a higher count of bike purchases (51) compared to non-bike purchases (30).
+
+- **5-10 Miles:**
+  - A similar trend is observed for individuals with a commute distance of 5-10 miles, where bike purchases (38) exceed non-bike purchases (53).
+
+- **More than 10 Miles:**
+  - Individuals with a commute distance of more than 10 miles have a lower count of bike purchases (20) compared to non-bike purchases (28).
+
+- **Overall:**
+  - The grand total count of bike purchases (250) exceeds the count of non-bike purchases (212).
+
+## Insights
+
+- Individuals with shorter commute distances (0-1 miles) are more likely to purchase bikes.
+- For longer commute distances (more than 10 miles), the count of bike purchases decreases.
+- There is variation in bike purchase behavior based on commute distance, suggesting that marketing strategies could be tailored to specific distance categories.
+
+## Note
+
+- "No" indicates individuals who did not purchase a bike, and "Yes" indicates individuals who purchased a bike.
+
+Feel free to use this information for further analysis or reference. If you have any questions or need additional details, please don't hesitate to reach out.
