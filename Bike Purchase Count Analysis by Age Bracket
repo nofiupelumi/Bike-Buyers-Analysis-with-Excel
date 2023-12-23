@@ -1,0 +1,38 @@
+# Bike Purchase Count Analysis by Age Bracket
+
+This section provides an analysis of the count of purchased bikes based on age bracket using the provided dataset.
+
+## Count of Purchased Bikes by Age Bracket
+
+| Age Bracket  | No   | Yes  | Grand Total |
+|--------------|------|------|-------------|
+| **Adolescent** | 47   | 25   | 72          |
+| **Middle Age** | 131  | 198  | 329         |
+| **Old Age**    | 34   | 27   | 61          |
+| **Grand Total**| 212  | 250  | 462         |
+
+## Interpretation
+
+- **Adolescent:**
+  - Adolescents show a lower count of bike purchases (25) compared to those who did not purchase a bike (47).
+
+- **Middle Age:**
+  - The middle age group has a higher count of bike purchases (198) compared to non-bike purchases (131).
+
+- **Old Age:**
+  - Individuals in the old age group have a lower count of bike purchases (27) compared to those who did not purchase a bike (34).
+
+- **Overall:**
+  - The grand total count of bike purchases (250) exceeds the count of non-bike purchases (212).
+
+## Insights
+
+- Middle-aged individuals are the primary contributors to bike purchases, with a higher count compared to other age groups.
+- Adolescents show a lower interest in bike purchases, while individuals in old age also exhibit a lower count of bike purchases.
+- Marketing efforts and product offerings may be tailored to appeal to the preferences and needs of the middle-aged demographic.
+
+## Note
+
+- "No" indicates individuals who did not purchase a bike, and "Yes" indicates individuals who purchased a bike.
+
+Feel free to use this information for further analysis or reference. If you have any questions or need additional details, please don't hesitate to reach out.
