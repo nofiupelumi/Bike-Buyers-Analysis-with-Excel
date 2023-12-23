@@ -1,0 +1,32 @@
+# Income Analysis Summary
+
+This section provides an analysis of the average income based on gender and bike purchase status using the provided dataset.
+
+## Average Income by Gender and Purchase Status
+
+|           | No        | Yes       | Grand Total  |
+|-----------|-----------|-----------|--------------|
+| **Female**| $54,885   | $59,259   | $56,862      |
+| **Male**  | $59,432   | $61,301   | $60,201      |
+| **Grand Total** | $57,492 | $60,346   | $58,717      |
+
+## Interpretation
+- **Female:**
+  - Average Income for those who did not purchase a bike: $54,885
+  - Average Income for those who purchased a bike: $59,259
+  - Grand Total Average Income: $56,862
+
+- **Male:**
+  - Average Income for those who did not purchase a bike: $59,432
+  - Average Income for those who purchased a bike: $61,301
+  - Grand Total Average Income: $60,201
+
+- **Overall:**
+  - Grand Total Average Income for all individuals: $57,492 (No bike purchase) and $60,346 (Bike purchase)
+  - The overall Grand Total Average Income: $58,717
+
+## Note
+- Income values are presented in US dollars ($).
+- "No" indicates individuals who did not purchase a bike, and "Yes" indicates individuals who purchased a bike.
+
+Feel free to use this information for further analysis or reference. If you have any questions or need additional details, please don't hesitate to reach out.
